@@ -1,0 +1,9 @@
+# ninja log v6
+12	1010	7457244003098607	CMakeFiles/factory.dir/main.cpp.obj	10d64beebc17a327
+1014	1505	7457244013116266	factory.exe	a117abe1e0cc25c1
+8	779	7457262789154609	CMakeFiles/factory.dir/main.cpp.obj	10d64beebc17a327
+780	1537	7457262796870277	factory.exe	a117abe1e0cc25c1
+42	540	7457263113899276	CMakeFiles/factory.dir/main.cpp.obj	10d64beebc17a327
+541	724	7457263118904952	factory.exe	a117abe1e0cc25c1
+38	526	7457263338931125	CMakeFiles/factory.dir/main.cpp.obj	10d64beebc17a327
+527	701	7457263343817446	factory.exe	a117abe1e0cc25c1
