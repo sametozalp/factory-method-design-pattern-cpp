@@ -1,9 +1,14 @@
 # ninja log v6
-12	1010	7457244003098607	CMakeFiles/factory.dir/main.cpp.obj	10d64beebc17a327
-1014	1505	7457244013116266	factory.exe	a117abe1e0cc25c1
-8	779	7457262789154609	CMakeFiles/factory.dir/main.cpp.obj	10d64beebc17a327
-780	1537	7457262796870277	factory.exe	a117abe1e0cc25c1
-42	540	7457263113899276	CMakeFiles/factory.dir/main.cpp.obj	10d64beebc17a327
-541	724	7457263118904952	factory.exe	a117abe1e0cc25c1
-38	526	7457263338931125	CMakeFiles/factory.dir/main.cpp.obj	10d64beebc17a327
-527	701	7457263343817446	factory.exe	a117abe1e0cc25c1
+11	623	7457264444104813	CMakeFiles/factory.dir/main.cpp.obj	10d64beebc17a327
+624	850	7457264450225916	factory.exe	a117abe1e0cc25c1
+38	201	7457279527519732	CMakeFiles/factory.dir/IPizza.cpp.obj	9670bdfe374c85d
+27	699	7457279527419799	CMakeFiles/factory.dir/main.cpp.obj	10d64beebc17a327
+41	610	7457279985443717	CMakeFiles/factory.dir/CheesePizza.cpp.obj	96da782969421462
+38	613	7457280143861861	CMakeFiles/factory.dir/VeggiPizza.cpp.obj	e35b7053fa1dc5b7
+18	643	7457286916003227	CMakeFiles/factory.dir/main.cpp.obj	10d64beebc17a327
+54	542	7457290957038948	CMakeFiles/factory.dir/PizzaStore.cpp.obj	d690adf7f3a5ef24
+41	576	7457290956904985	CMakeFiles/factory.dir/main.cpp.obj	10d64beebc17a327
+40	652	7457291692176753	CMakeFiles/factory.dir/AnkaraPizzaStore.cpp.obj	b4288bbfeb2dfcfe
+5	444	7459287237160039	CMakeFiles/factory.dir/PizzaStore.cpp.obj	d690adf7f3a5ef24
+24	568	7459288966001778	CMakeFiles/factory.dir/PizzaStore.cpp.obj	d690adf7f3a5ef24
+568	675	7459288971446317	factory.exe	d66f791a5f9cad07
